@@ -1,7 +1,3 @@
-README.md (version 1 — PROPRE)
-
-Tu peux mettre exactement ceci pour le premier push :
-
 # Kobo Data Visualizer
 
 A Python application to visualize data collected with KoboToolbox forms using an API key.
